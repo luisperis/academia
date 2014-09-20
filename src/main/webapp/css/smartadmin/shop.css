@@ -1,0 +1,59 @@
+.container-fixed {
+  margin: 0 auto;
+  padding: 0 20px;
+  display: table-cell;
+  /* Para alinear verticalmente añadir vertical-align: middle */
+  /*vertical-align: middle;*/
+  position: relative;
+}
+.m2me_2meLogoSup {
+  width:150px;  
+}
+.m2me_btnCreaTiendaSup {
+  text-align: right;
+  line-height: 100px;
+}
+.m2me_zonaBanner {
+  padding: 0px;
+  margin: 0px;
+  margin-bottom: 20px; 
+  text-align: right;
+  background: #ffffff url("../../images/shop/banner_fondo.png") no-repeat right top;
+  border-top: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;  
+}
+.m2me_banner {
+  height: 225px;
+  width: 690px; 
+  margin-right: -15px;
+  
+}
+.m2me_zonaPubliIntro {
+  margin: 10px 0;
+  background: #DCE6E8;
+}
+.m2me_zonaPubliIntro h1 {
+  margin: 5px 0 10px 0;
+}
+.m2me_zonaPubliIntro img {
+  vertical-align: bottom;
+  margin-bottom: 3px;
+  width: 110px;
+}	
+.m2me_zonaApartados {
+  margin-top: 20px;
+}
+.m2me_zonaApartadoCentral {
+  border-left: 1px dashed #aaa;
+  border-right: 1px dashed #aaa;
+}
+.m2me_centrar {
+  text-align: center;		
+}
+.m2me_zonaBtnPie {
+  margin-top: 20px;
+  padding: 10px;
+  border-radius:25px;
+  border: 1px solid #ccc;
+  background: #DCE6E8;
+}
